@@ -1,0 +1,48 @@
+---
+title: AI Storyboard Generator
+emoji: 🎬
+colorFrom: purple
+colorTo: blue
+sdk: gradio
+sdk_version: 4.0.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
+# 🎬 AI Storyboard Generator
+
+Transform your story ideas into visual storyboards with consistent characters and style!
+
+## ✨ Features
+
+- 🧠 AI-powered story writing (Llama 3.1)
+- 🎨 Visual Bible for consistent style
+- 👤 Same character in every scene
+- 🗣️ Natural voice narration
+- 🎥 Automatic video assembly
+
+## 🎤 Voices
+
+- Female (US) - Aria
+- Male (US) - Guy
+- Female (UK) - Sonia
+- Female (Australian) - Natasha
+- Male (UK) - Ryan
+
+## 🛠️ Tech Stack
+
+| Component | Technology |
+|-----------|------------|
+| LLM | Groq (Llama 3.1) |
+| Images | Pollinations AI |
+| Voice | Edge TTS |
+| Video | MoviePy |
+
+## ⏱️ Processing Time
+
+~30 seconds per scene
+
+---
+
+Made with ❤️ for storytellers
